@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PutaToe Project</string>
+    <string name="fruits_vegetables"><![CDATA[Fruits & Vegetables]]></string>
+    <string name="top_deals">TOP DEALS</string>
+    <string name="view_all">View All</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="product_name">Product Name</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="qty_1_kg">Qty: 1 kg</string>
+</resources>
